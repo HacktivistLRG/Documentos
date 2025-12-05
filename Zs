@@ -1,4 +1,4 @@
-Separador de espacios
+# Separador de espacios
 
 | №      | Codigo binario               | Carácter | Description                    |
 |--------|------------------------------|----------|--------------------------------|
